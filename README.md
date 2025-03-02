@@ -14,7 +14,7 @@ ii)Efficiency and Scalability:
 Whether it's a small app or a massive cloud service, good software engineering ensures that products are designed to grow and adapt to increased demand. This planning saves time and resources in the long run.
 
 iii)Innovation and Problem Solving:
-The field combines creativity with technical skills to solve complex problems. As a student, I find it fascinating how software engineering isn’t just about writing code—it’s about thinking critically to design systems that make life easier and drive technological advancement.
+The field combines creativity with technical skills to solve complex problems. As a student, I find it fascinating how software engineering isn’t just about writing code it’s about thinking critically to design systems that make life easier and drive technological advancement.
 
 iv)Teamwork and Communication:
 Big projects require collaboration, and software engineering emphasizes clear communication and structured teamwork. This helps different experts work together effectively, ensuring that the final product meets high standards.
